@@ -1,0 +1,18 @@
+.languages-repository {
+  list-style-type: none;
+  margin: 10px;
+}
+.button {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 15px;
+  border-width: 0px;
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 700;
+  color: #1e293b;
+  background-color: transparent;
+  cursor: pointer;
+}

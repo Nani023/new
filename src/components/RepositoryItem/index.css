@@ -1,0 +1,16 @@
+.repository-details-list {
+  list-style-type: none;
+  margin: 10px;
+}
+.repository-container {
+  background-color: #f8f8ff;
+  height: 450px;
+  padding: 25px;
+  margin: 15px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.avatar-image {
+  height: 180px;
+}
